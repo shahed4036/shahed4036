@@ -1,4 +1,4 @@
-# Hello, I'm Abu Shahed 👋
+# <span style="color:#4CAF50;">Hello, I'm Abu Shahed 👋</span>
 
 ## 🔭 I’m currently working on:
 - Starting my journey as a **Software Engineer** at **Ultra X BD**, where I’m focused on backend development using **JavaScript**.
