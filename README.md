@@ -1,33 +1,74 @@
-# <span style="color:#4CAF50;">Hello, I'm Abu Shahed 👋</span>
+# 🌟 **Hello, I'm Abu Shahed!** 👨‍💻
 
-## 🔭 I’m currently working on:
-- Starting my journey as a **Software Engineer** at **Ultra X BD**, where I’m focused on backend development using **JavaScript**.
-- Learning the ins and outs of **backend services**, **API design**, and system integrations as part of my role.
+### 🔧 **Software Engineer | Backend Developer | Problem Solver**  
+> Passionate about building scalable applications and solving real-world problems with **JavaScript**, **AI**, and **Machine Learning**.
 
-## 🌱 I’m currently learning:
-- Exploring **AI** and **Machine Learning** to apply intelligent solutions in backend systems.
-- Enhancing my knowledge of **cloud computing**, **DevOps**, and **scalable architectures**.
+---
 
-## 💼 Work Experience:
-- **Software Engineer (Probationary)** at **Ultra X BD** (August 2025 – Present)
-  - Gaining hands-on experience in backend development, including **JavaScript**, **API design**, and integrating services.
-  - Learning about server-side logic and collaborating with senior engineers to build backend systems.
+### 💼 **Current Role**:
+**Software Engineer** at **Ultra X BD**  
+*Focused on backend development, building and optimizing APIs, and learning cloud computing and DevOps.*
 
-## 📚 Key Projects:
-- **Brain Taskers**: A smart data collection platform integrating **IoT**, **AI**, and **Blockchain** for data validation and payment processing. [GitHub Link](#)
-- **Music Genre Classification**: A machine learning project for classifying music genres using **SVM**, **Random Forest**, and **KNN**. [GitHub Link](#)
+---
 
-## 🏆 Achievements & Contests:
-- **ICPC Dhaka Regional 2024**: Rank 126th among 300 teams.
-- **NCPC Preliminary JU 2023**: Rank 212th among 1099 teams.
-- **Codeforces**: [shahed4036](https://codeforces.com/profile/shahed4036) (Rating: 1339, 750+ problems solved)
-- **Codechef**: [shahed4036](https://www.codechef.com/users/shahed4036) (Rating: 1665, 50+ problems solved)
-- **AtCoder**: [abushahed4036](https://atcoder.jp/users/abushahed4036) (Rating: 608, 300+ problems solved)
+### 🌱 **I’m currently learning:**
+- **Machine Learning** & **Deep Learning** for smarter backend systems.
+- **Cloud Computing** and **Microservices** for better scalability.
+- **DevOps Practices** to streamline development and deployment.
 
-## 📝 Publications:
-- **“Music Genre Classification Using Explainable Machine Learning”** accepted in 2025 International Conference on Technological Innovations in Knowledge Discovery (ITIKD).
-- **“IDDS2.0: An IoT-Enabled Energy Efficient Drug Delivery System”** at IEEE ICCE 2023.
+---
 
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/abushahed)
-- Email: [abushahed490@gmail.com](mailto:abushahed490@gmail.com)
+### 🏆 **Achievements & Contests**:
+- **ICPC Dhaka Regional 2024**: **Rank 126th** out of 300 teams 🥉
+- **NCPC Preliminary JU 2023**: **Rank 212th** out of 1099 teams 💪
+
+---
+
+### 📚 **Key Projects**:
+
+#### 🚀 **Brain Taskers**:
+A platform that integrates **IoT**, **AI**, and **Blockchain** for smart data collection and payment processing.
+- **Tech Stack**: React, Python, Django, Solidity  
+- [View on GitHub](#)
+
+#### 🎵 **Music Genre Classification**:
+A machine learning project that classifies music genres based on audio features using **SVM**, **Random Forest**, and **KNN**.
+- **Tech Stack**: Python, Scikit-Learn, Pandas  
+- [View on GitHub](#)
+
+---
+
+### ⚙️ **Skills & Technologies**:
+
+- **Languages**: C++, Python, JavaScript, Solidity
+- **Frameworks**: React, Django, Flask
+- **Machine Learning**: Scikit-Learn, Pandas, Numpy
+- **Database**: MySQL, MongoDB
+- **DevOps**: Docker, Jenkins, Kubernetes
+- **Tools**: Git, LaTeX, VS Code
+
+---
+
+### 🌐 **Connect with Me**:
+
+- [LinkedIn](https://www.linkedin.com/in/abushahed)  
+- 📧 Email: [abushahed490@gmail.com](mailto:abushahed490@gmail.com)  
+- 💻 **Competitive Programming**:
+  - [Codeforces](https://codeforces.com/profile/shahed4036) (Rating: 1339)
+  - [Codechef](https://www.codechef.com/users/shahed4036) (Rating: 1665)
+  - [AtCoder](https://atcoder.jp/users/abushahed4036) (Rating: 608)
+
+---
+
+### 📝 **Publications**:
+- **“Music Genre Classification Using Explainable Machine Learning”** accepted in **2025 International Conference on Technological Innovations in Knowledge Discovery (ITIKD)**.
+- **“IDDS2.0: An IoT-Enabled Energy Efficient Drug Delivery System”** at **IEEE ICCE 2023**.
+
+---
+
+### 💡 **Fun Fact**:  
+I'm constantly exploring new tech, contributing to open-source projects, and love to challenge myself through competitive programming!
+
+---
+
+## 🖥️ **Let's Build Something Amazing Together!**
