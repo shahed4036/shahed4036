@@ -5,12 +5,6 @@
 
 ---
 
-### 💼 **Current Role**:
-**Software Engineer** at **Ultra X BD**  
-*Focused on backend development, building and optimizing APIs, and learning cloud computing and DevOps.*
-
----
-
 ### 🌱 **I’m currently learning:**
 - **Machine Learning** & **Deep Learning** for smarter backend systems.
 - **Cloud Computing** and **Microservices** for better scalability.
