@@ -7,6 +7,7 @@
 
 ### 🌱 **I’m currently learning:**
 -Training machine learning models for advanced **image classification**, **prediction**, and **object detection** tasks. 
+
 -Developing robust backend systems for **Machine Learning (ML)** and **Deep Learning (DL)** models
 
 ---
