@@ -6,9 +6,8 @@
 ---
 
 ### 🌱 **I’m currently learning:**
-- **Machine Learning** & **Deep Learning** for smarter backend systems.
-- **Cloud Computing** and **Microservices** for better scalability.
-- **DevOps Practices** to streamline development and deployment.
+Training machine learning models for advanced **image classification**, **prediction**, and **object detection** tasks. 
+Developing robust backend systems for **Machine Learning (ML)** and **Deep Learning (DL)** models
 
 ---
 
