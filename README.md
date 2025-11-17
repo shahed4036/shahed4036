@@ -22,7 +22,7 @@
 
 #### 🚀 **Brain Taskers**:
 A platform that integrates **IoT**, **AI**, and **Blockchain** for smart data collection and payment processing.
-- **Tech Stack**: React, Python, Django, Solidity  
+- **Tech Stack**: React, Python, Fastapi, Solidity  
 - [View on GitHub](#)
 
 #### 🎵 **Music Genre Classification**:
@@ -35,10 +35,9 @@ A machine learning project that classifies music genres based on audio features 
 ### ⚙️ **Skills & Technologies**:
 
 - **Languages**: C++, Python, JavaScript, Solidity
-- **Frameworks**: React, Django, Flask
+- **Frameworks**: React, Fastapi
 - **Machine Learning**: Scikit-Learn, Pandas, Numpy
 - **Database**: MySQL, MongoDB
-- **DevOps**: Docker, Jenkins, Kubernetes
 - **Tools**: Git, LaTeX, VS Code
 
 ---
