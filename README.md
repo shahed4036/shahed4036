@@ -50,6 +50,13 @@ A machine learning project that classifies music genres based on audio features 
   - [Codeforces](https://codeforces.com/profile/shahed4036) (Rating: 1339)
   - [Codechef](https://www.codechef.com/users/shahed4036) (Rating: 1665)
   - [AtCoder](https://atcoder.jp/users/abushahed4036) (Rating: 608)
+⌨️ Typing Speed (Monkeytype):
+
+Username: [shahed4036](https://monkeytype.com/profile/shahed4036)
+
+Average Speed: 80+ WPM
+
+Highest Speed (15s): 106 WPM
 
 ---
 
