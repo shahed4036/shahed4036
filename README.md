@@ -1,6 +1,6 @@
 # 🌟 **Hello, I'm Abu Shahed!** 👨‍💻
 
-### 🔧 **Software Engineer | Backend Developer | Problem Solver**  
+### 🔧 **AI Engineer | Backend Developer | Problem Solver**  
 > Passionate about building scalable applications and solving real-world problems with **JavaScript**, **AI**, and **Machine Learning**.
 
 ---
